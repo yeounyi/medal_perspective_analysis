@@ -8,6 +8,6 @@
 * 연도별 올림픽 기사로 word2vec 모델을 학습한 후, 메달별 유사 단어를 비교함 
     
 ### 2. 연도별 '메달'이 포함된 문장의 감정 변화
-* 네이버 영화평 데이터 NSMC로 학습한 [koelectra](https://huggingface.co/monologg/koelectra-base-finetuned-nsmc)로 감정분석을 진행함  
+* 네이버 영화평 데이터 NSMC로 학습한 [KoELECTRA](https://huggingface.co/monologg/koelectra-base-finetuned-nsmc)로 감정분석을 진행함  
 * 메달별 평균 감정 점수, 메달별 감정 점수 분포를 살펴봄 
 
