@@ -1,5 +1,7 @@
 ## word2vec과 감정 분석으로 알아본 올림픽 메달에 대한 인식 변화
 [쏘프라이즈 메달에 대한 인식 변화 분석 프로젝트](https://soprize.so/answer/466)로 진행했습니다.
+* 전체 글 보기: https://yeounyi.github.io/2021/08/03/medal.html
+<br><br>
 * 크롤링 코드 참고: https://github.com/lumyjuwon/KoreaNewsCrawler
 * 2004년-2021년까지의 스포츠 기사 중 올림픽 관련 기사를 분석함 
 * 크롤링한 데이터, 전처리 데이터, 학습한 word2vec 모델은 파일 크기 때문에 [드라이브](https://drive.google.com/drive/folders/1XGSXyIV1IIkbOfPDggkDxCUWqwNYNtMm?usp=sharing)에 업로드함
